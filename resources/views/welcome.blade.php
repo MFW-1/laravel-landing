@@ -27,7 +27,7 @@
 
 <div class="hero">
 <h1>Welcome to My Laravel Website</h1>
-<p>Deployed on AWS EC2 with linux ami using GitHub Actions</p>
+<p>Deployed on AWS EC2 with linux Amazon Machine Image using GitHub Actions</p>
 
 <button>Get Started</button>
 </div>
